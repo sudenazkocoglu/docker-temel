@@ -1,4 +1,4 @@
-# Git Test - Ödev 1.3
+# Docker Temel - Ödev 1.4
 ## Docker Multi-Stage Build Sonuçları
 İmaj boyutunu optimize etmek için Multi-Stage Build (Çok aşamalı inşa) yöntemi kullanılmıştır. 
 
